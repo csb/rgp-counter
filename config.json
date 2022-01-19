@@ -1,0 +1,83 @@
+[
+    {
+        "name": "ClimbingHangar_1",
+        "brand": "The Climbing Hangar",
+        "brand_shortcode": "CH",
+        "url": "https://portal.rockgympro.com/",
+        "id": "707309bb2c19717ceeb9b97fa6f10c78",
+        "headers": [
+            {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15"
+            },
+            {
+                "key": "Referer",
+                "value": "https://www.theclimbinghangar.com/"
+            }
+        ],
+        "gyms": [
+            {
+                "shortcode": "LSH",
+                "location": "Liverpool_Sandhills"
+            }
+        ]
+    },
+    {
+        "name": "ClimbingHangar",
+        "brand": "The Climbing Hangar",
+        "brand_shortcode": "CH",
+        "url": "https://portal.rockgympro.com/",
+        "id": "286239e82e39f2a72d33ea072d572445",
+        "headers": [
+            {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15"
+            },
+            {
+                "key": "Referer",
+                "value": "https://www.theclimbinghangar.com/"
+            }
+        ],
+        "gyms": [
+            {
+                "shortcode": "LMW",
+                "location": "Liverpool_Matchworks"
+            }
+        ]
+    },
+    {
+        "name": "AwesomeWalls_England",
+        "url": "https://portal.rockgympro.com/",
+        "brand": "Awesome Walls",
+        "brand_shortcode": "AW",
+        "id": "92d94d22394b00c6d3f6f2c90c402db1",
+        "headers": [
+            {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15"
+            },
+            {
+                "key": "Referer",
+                "value": "https://awesomewalls.co.uk/"
+            }
+        ],
+        "gyms": [
+            {
+                "shortcode": "LIV",
+                "location": "Liverpool"
+            },
+            {
+                "shortcode": "SHF",
+                "location": "Sheffield"
+            },
+            {
+                "shortcode": "SKP",
+                "location": "Stockport"
+            },
+            {
+                "shortcode": "STK",
+                "location": "Stoke"
+            }
+        ]
+    }
+]
